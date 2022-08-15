@@ -1,0 +1,27 @@
+
+.container{
+    margin-bottom: 100px;
+}
+ 
+/* Navbar */
+.navbar{
+
+}
+
+/* Banner */
+.banner{
+    background-color: #feeae9;
+    border-radius: 15px;
+    padding: 30px 45px;
+    align-items: center;
+}
+
+.tk{
+    color: rgb(182, 0, 70);
+}
+
+.btn-buy{
+    background-color: rgb(182, 0, 70);
+    color: #fff;
+}
+
