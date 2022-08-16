@@ -23,5 +23,50 @@
 .btn-buy{
     background-color: rgb(182, 0, 70);
     color: #fff;
+    cursor: pointer;
+}
+
+.btn-buy:hover{
+    color: rgb(255, 255, 253);
+}
+
+/* Categories */
+
+.categories h1{
+    color: #fff;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 2px;
+}
+
+.cat1{
+    background-image: linear-gradient(90deg, rgb(182, 156, 6),rgb(231, 201, 28));
+}
+
+.cat2{
+    background-image: linear-gradient(90deg, rgb(150, 14, 120),rgb(227, 12, 247));
+}
+
+.cat3{
+    background-image: linear-gradient(90deg, rgb(25, 150, 150),rgb(13, 240, 240));
+
+}
+
+
+
+
+/* Shoes */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    cursor: pointer;
 }
 
